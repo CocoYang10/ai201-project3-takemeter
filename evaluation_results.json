@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.7353,
+  "finetuned_accuracy": 0.3529,
+  "improvement": -0.3824,
+  "test_set_size": 34,
+  "label_map": {
+    "technical_skill_advice": 0,
+    "industry_reality_check": 1,
+    "career_path_advice": 2,
+    "personal_experience": 3
+  },
+  "model": "distilbert-base-uncased"
+}
